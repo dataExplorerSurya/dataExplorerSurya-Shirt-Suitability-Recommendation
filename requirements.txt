@@ -1,0 +1,5 @@
+streamlit==1.17.0
+pandas==1.5.3
+numpy==1.23.5
+Pillow==9.4.0
+tensorflow==2.11.0

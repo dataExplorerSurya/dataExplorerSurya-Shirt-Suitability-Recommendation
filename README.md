@@ -1,6 +1,6 @@
 # Shirt Suitability Recommendation App
 
-![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue?style=for-the-badge&logo=streamlit)  
+  
 A Streamlit app that recommends whether a shirt or t-shirt is suitable for the user based on body type, skin tone, chest/waist measurement, occasion, season, and time of day. The app also allows the user to upload an image of the shirt/t-shirt, which will be analyzed for suitability.
 
 ---
@@ -23,15 +23,6 @@ A Streamlit app that recommends whether a shirt or t-shirt is suitable for the u
   Based on the input provided, the app will return a recommendation, such as:
   - *"This shirt is suitable for your body type, occasion, and the current season."*
   - *"This shirt is not suitable for your body type or occasion."*
-
----
-
-## Demo
-
-Try the live demo of the app:  
-**[Click here for the deployed app!](#)**  
-
----
 
 ## Getting Started
 
